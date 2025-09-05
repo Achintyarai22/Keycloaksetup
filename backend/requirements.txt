@@ -1,0 +1,7 @@
+click
+Flask==2.0.1
+Flask-SQLAlchemy
+gunicorn==20.0.4
+MarkupSafe
+SQLAlchemy
+Werkzeug
